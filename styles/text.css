@@ -1,0 +1,35 @@
+
+      .abc{
+        font-family: Roboto;
+        font-size: 40px;
+        font-weight: bold;
+        padding-top: 10px;
+        margin-bottom: 5px;
+        color: black;
+      }
+      .efg{
+        font-size:35px;
+        color: black;
+      }
+      p{
+        font-size: 25px;
+        color: rgb(26, 110, 37);
+      }
+      .apple{
+        background-color: rgb(231, 31, 31);
+        color: white;
+        padding-left: 15px;
+        padding-right: 15px;
+        padding-top: 15px;
+        padding-bottom: 15px;
+        width:800px;
+        text-align: center;
+      }
+      .xyz{
+        cursor: pointer;
+      }
+      .xyz:hover{
+        text-decoration: underline;
+      }
+    
+   
